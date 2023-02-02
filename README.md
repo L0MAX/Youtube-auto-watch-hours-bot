@@ -1,7 +1,7 @@
 # Youtube auto watch bot
 
-> This is a bot created in python to generate watch time and views for YouTube channel.
-> I create this project for educational purposes, you can use it to generate views and increase watch time, but this is not the original intention.
+> This is a bot created in python to generate watch time and views for your YouTube channel.
+> I created this project for educational purposes only, you can use it to generate views and increase watch time of your channel, but this is not the original intention.
 > you can use, copy, modify this code as you like.
 
 ### How to use:
@@ -15,7 +15,7 @@
 #### usage
 
 - python3 youtubeBot.py
-- enter the URL of your video
+- enter the Youtube URL of your video
 - enter how many times you want the video to be watched
 - enter the length of the video or how many seconds you want the video to be watched each time
 
@@ -25,9 +25,9 @@
 
 ## Author
 
-- [Twitter](https://www.twitter.com/ismailcourr)
+- [Twitter](https://www.twitter.com/legendankah)
 - [Github](https://github.com/L0MAX)
-- [Linkedin](https://www.linkedin.com/in/ismailcourr/)
+- [Linkedin](https://www.linkedin.com/in/donatus-ankah-42a726134/)
 
 ## Show your support
 
